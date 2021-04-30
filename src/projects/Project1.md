@@ -12,6 +12,7 @@ Means, Firstly taking the image of Vehicle , then extracting the Number Plate fr
 
 ![Home Page](./project1.png)
 
+
 <br />
 
 OUR TEAM:

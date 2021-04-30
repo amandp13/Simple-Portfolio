@@ -8,7 +8,6 @@ type: "Web Development"
 A Multi Vendor Ecommerce Grocery Store using Html, CSS, Javascript, Bootstrap, PHP and Mysql.
 A Startup India initiative.
 A #VocalForLocal Scheme.
-
 <br />
 
 ![Home Page](./project4.png)

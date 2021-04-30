@@ -20,7 +20,7 @@ const IndexPage = () => {
         <br></br><center>I am Amandeep. </center></h3>
         <center><h5 class="chic">and I just love Chicken. 🐔 </h5></center>
         <br></br>
-        <p>Welcome to the online world of mine.</p>
+        <p>Welcome to the online world of mine...Yes! I do Exist.</p>
         <br></br>
         <p>“What we know is a drop, what we don't know is an ocean.”- Issac Newton</p>
       </Container>

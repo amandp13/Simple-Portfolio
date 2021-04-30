@@ -68,13 +68,14 @@ const Header = () => {
           </li>
           <li>
             <AniLink
-              cover
+            cover
               direction="right"
               bg="#00d9ff"
               duration={0.7}
               className="header-link"
             >
-               <a href="CV_Amandeep.pdf">CV</a>
+               <a href="https://cvdesignr.com/p/5fdb97a082f51" target="_blank">CV</a>
+               {/* <ExternalLink href="https://cvdesignr.com/p/5fdb97a082f51?hl=en_GB">CV</ExternalLink> */}
             </AniLink>
           </li>
         </ul>

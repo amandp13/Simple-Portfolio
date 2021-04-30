@@ -19,8 +19,8 @@ const Footer = () => {
   return (
     <footer>
       <Container>
-        {/* add author's name in footer by uncommenting the following line*/}
-        <p>Made by ❤️{data.site.siteMetadata.author}❤️ ✔️</p>
+        <p>Made by ❤️{data.site.siteMetadata.author}❤️ </p>
+        
         <div className="footer__icons">
           
           <a

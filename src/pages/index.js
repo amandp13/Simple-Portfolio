@@ -16,9 +16,9 @@ const IndexPage = () => {
         <p className="cover">
           <img src={img_gatsby} alt="Amandeep pic" />
         </p>
-        <h3 className="heading">नमस्कार आदर आदाब अभिनंदन...
+        <h3 className="heading">नमस्कार! Welcome to my Online World...
         <br></br><center>I am Amandeep. </center></h3>
-        <center><h5 class="chic">and I just love Chickens 🐔 </h5></center>
+        <center><h5 class="chic">and I just love Chicken. 🐔 </h5></center>
         <br></br>
         <p>Welcome to the online world of mine.</p>
         <br></br>

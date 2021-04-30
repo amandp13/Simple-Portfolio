@@ -5,10 +5,11 @@ type: "Live website"
 ---
 A LIVE WEBSITE FOR COVID 19 STATUS OF PATIENTS WORLDWIDE
 
+<br />
 
 ![Home Page](./project2.png)
 
-
+<br />
 Help prevent the spread of Coronavirus  by maintaining at least 1m (3ft) between you and others.
 
 <br />

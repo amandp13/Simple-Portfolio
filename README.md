@@ -23,4 +23,4 @@ A minimalistic Personal website of mine.
 - [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
 - [Npm](https://www.npmjs.com/)
 
-Pull requests welcome!
+Pull requests are welcome!
